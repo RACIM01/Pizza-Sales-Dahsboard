@@ -9,3 +9,8 @@ The primary objectives of this initiative include:
 *Acquiring proficiency in the DAX language for the formulation of functions.
 
 *Generating comprehensive reports within Power BI featuring interactive graphs spanning across multiple pages.
+
+Dashboard Screenshots :
+![image](https://github.com/RACIM01/Pizza-Sales-Dashboard/assets/113592369/05efd353-d8cb-4bfb-b757-1e3a60bf3647)
+
+![image](https://github.com/RACIM01/Pizza-Sales-Dashboard/assets/113592369/eff3c488-9451-4d2b-be16-b3f2fb5d1eab)
